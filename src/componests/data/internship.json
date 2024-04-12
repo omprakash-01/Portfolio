@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer (Internship)",
+    "organisation": "BREACHCURL",
+    "startDate": "August, 2023",
+    "endDate": "September, 2023,",
+    "location": "Work From Home",
+    "experiences": [
+      "I have used Tailwind CSS extensively to create responsive  web applications."
+    ],
+    "imageSrc": "company/Breachcurl.png"
+  },
+  {
+    "id": 2,
+    "role": "Training",
+    "organisation": "Qspider/ Jspider ",
+    "startDate": "May, 2023",
+    "endDate": "April, 2023,",
+    "location": "Noida",
+    "experiences": [
+     
+      "Throughout this training, I learned various programming languages, technologies, and database languages.",
+      "Core Java, OOPS, HTML, CSS, JavaScript, React js, MySQL."
+     
+    ],
+    "imageSrc": "company/qsipder.png"
+  }
+ 
+]
