@@ -3,15 +3,17 @@ import internship from "./data/internship.json";
 let Internship = () => {
   return (
     <>
-      <div className="container ex" id="experience">
+      <div className="container ex" id="internship">
         <h1>Internship/ Training</h1>
         {internship.map((data) => {
           return (
             <>
-              <div className="ex-items text-center my-5"
+              <div
+                className="ex-items text-center my-5"
                 data-aos="zoom-in"
                 data-aos-duration="1000"
-                key={data.id}>
+                key={data.id}
+              >
                 <div className="left">
                   <img src={`/assets/${data.imageSrc} `} alt="" />
                 </div>
