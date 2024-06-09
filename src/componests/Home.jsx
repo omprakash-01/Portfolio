@@ -11,6 +11,7 @@ const Home = () => {
       typeSpeed: 50,
       backSpeed: 50,
       loop: true,
+      showCursor: false, 
     };
 
     const typed = new Typed(typedRef.current, options);

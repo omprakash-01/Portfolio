@@ -1,26 +1,26 @@
 [
   {
     "key": 1,
-    "title": "Converter Case",
-    "imageSrc": "projects/ConverterCase.png",
+    "title": "CodePen Clone",
+    "imageSrc": "projects/CodePen.png",
     "description": "This is a project made with complete React js.",
-    "demo": "https://convert-case-mauve.vercel.app/",
-    "source": "https://github.com/omprakash-01/Convert-Case"
+    "demo": "https://code-pen-clone-livid.vercel.app/",
+    "source": "https://github.com/omprakash-01/CodePen-Clone"
   },
   {
     "key": 2,
-    "title": "Password Generator",
-    "imageSrc": "projects/Password.png",
+    "title": "Google Gemini Clone",
+    "imageSrc": "projects/Gemini.png",
     "description": "This is a project made with complete React js.",
-    "demo": "https://password-generator-alpha-flax.vercel.app/",
-    "source": "https://github.com/omprakash-01/Password-Generator"
+    "demo": "https://gemini-clone-five-pi.vercel.app/",
+    "source": "https://github.com/omprakash-01/Gemini-Clone"
   },
   {
     "key": 3,
-    "title": "Guess The Numer",
-    "imageSrc": "projects/GuessTheNumber.png",
-    "description": "This is a project made with complete JavaScript.",
-    "demo": "https://omprakash-01.github.io/GuessTheNumber/",
-    "source": "https://github.com/omprakash-01/GuessTheNumber"
+    "title": "ConveterCase",
+    "imageSrc": "projects/ConverterCase.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://convert-case-mauve.vercel.app//",
+    "source": "https://github.com/omprakash-01/Convert-Case"
   }
 ]
